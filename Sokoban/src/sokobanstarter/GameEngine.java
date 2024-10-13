@@ -48,7 +48,7 @@ public class GameEngine implements Observer {
     gameOverList = new ArrayList<>();
     overlayList = new ArrayList<>();
 
-    currentLevel = 6;
+    currentLevel = 0;
     player = "";
     moves = 0;
     energy = INITIAL_ENERGY;
